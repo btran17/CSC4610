@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="libraryTable">
+    <library name="gluegen-gl">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Desktop/jogamp-all-platforms/jar/atomic/gluegen-gl.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="jogl-all">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Desktop/jogamp-all-platforms/jar/jogl-all.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="jogl-awt">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Desktop/jogamp-all-platforms/jar/atomic/jogl-awt.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="jogl-util">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Desktop/jogamp-all-platforms/jar/atomic/jogl-util.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</project>
